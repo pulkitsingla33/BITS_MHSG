@@ -1,0 +1,49 @@
+*
+{
+	font-family: Times New Roman;
+}
+
+h1
+{
+	text-align: center ;
+	background-color: black ;
+	color: white;
+	padding: 15px ;
+	width: 40%;
+	margin: auto;
+}
+
+hr
+{
+	border: 2px solid black;
+	width: 45%;
+}
+
+p
+{
+	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+img
+{
+	display: block;
+	width: 50%;
+	height: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+}
+
+.buttons
+{
+	font-size: 15px;
+	background-color: white;
+}
+
+.buttons:hover
+{
+	background-color: red;
+	cursor: pointer;
+}
